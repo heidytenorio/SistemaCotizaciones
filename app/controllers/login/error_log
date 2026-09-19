@@ -1,0 +1,544 @@
+[18-Sep-2026 08:07:12 America/Lima] Email recibido: Almacen2026-2@gmail.com
+[18-Sep-2026 08:07:12 America/Lima] Resultado consulta: Array
+(
+    [id_usuario] => 11
+    [nombres] => Almacenero
+    [email] => Almacen2026-2@gmail.com
+    [password_user] => $2y$10$JdrOgEuVUlAL2XAs/mz1K.Btz8rHOpLOoZrU2Ajr.Y18Tl1y1PgQi
+    [token] => 
+    [id_rol] => 5
+    [fyh_creacion] => 2026-01-23 08:56:12
+    [fyh_actualizacion] => 2026-01-23 08:58:56
+    [rol] => Empleado Almacen
+)
+
+[18-Sep-2026 08:07:12 America/Lima] password_verify: true
+[18-Sep-2026 08:07:12 America/Lima] Ingreso exitoso usuario id: 11
+[18-Sep-2026 08:07:12 America/Lima] Email recibido: Almacen2026-2@gmail.com
+[18-Sep-2026 08:07:12 America/Lima] Resultado consulta: Array
+(
+    [id_usuario] => 11
+    [nombres] => Almacenero
+    [email] => Almacen2026-2@gmail.com
+    [password_user] => $2y$10$JdrOgEuVUlAL2XAs/mz1K.Btz8rHOpLOoZrU2Ajr.Y18Tl1y1PgQi
+    [token] => 
+    [id_rol] => 5
+    [fyh_creacion] => 2026-01-23 08:56:12
+    [fyh_actualizacion] => 2026-01-23 08:58:56
+    [rol] => Empleado Almacen
+)
+
+[18-Sep-2026 08:07:12 America/Lima] password_verify: true
+[18-Sep-2026 08:07:12 America/Lima] Ingreso exitoso usuario id: 11
+[18-Sep-2026 08:13:58 America/Lima] Email recibido: Serco2026-1@gmail.com
+[18-Sep-2026 08:13:58 America/Lima] Resultado consulta: Array
+(
+    [id_usuario] => 5
+    [nombres] => Sercons Fiorela
+    [email] => Serco2026-1@gmail.com
+    [password_user] => $2y$10$S1/cCSIj/jCSH.RrvTayuOttpPA4lQ3AogpqM1nn98YrjKl2pVMxK
+    [token] => 
+    [id_rol] => 3
+    [fyh_creacion] => 2025-07-26 10:09:23
+    [fyh_actualizacion] => 2026-01-23 08:35:11
+    [rol] => Empleado
+)
+
+[18-Sep-2026 08:13:59 America/Lima] password_verify: true
+[18-Sep-2026 08:13:59 America/Lima] Ingreso exitoso usuario id: 5
+[18-Sep-2026 08:20:15 America/Lima] Email recibido: Serco2026-22@gmail.com
+[18-Sep-2026 08:20:15 America/Lima] Resultado consulta: Array
+(
+    [id_usuario] => 15
+    [nombres] => Yajayra Huaman
+    [email] => Serco2026-22@gmail.com
+    [password_user] => $2y$10$NhATPI.rwYKESPMpSxr7r.TY/PElYWXgNV./Fq3jeyTnLdfYL3oie
+    [token] => 
+    [id_rol] => 1
+    [fyh_creacion] => 2026-06-12 15:45:25
+    [fyh_actualizacion] => 0000-00-00 00:00:00
+    [rol] => Administrador
+)
+
+[18-Sep-2026 08:20:15 America/Lima] password_verify: true
+[18-Sep-2026 08:20:15 America/Lima] Ingreso exitoso usuario id: 15
+[18-Sep-2026 08:25:26 America/Lima] Email recibido: Serco2026-4@gmail.com
+[18-Sep-2026 08:25:26 America/Lima] Resultado consulta: Array
+(
+    [id_usuario] => 13
+    [nombres] => Pamela Chancafe
+    [email] => Serco2026-4@gmail.com
+    [password_user] => $2y$10$OiVUtmd6P6tw0sGNZcdGqOi3LpdfLOEMimHYZQNCPaEpC4uhzMHa.
+    [token] => 
+    [id_rol] => 4
+    [fyh_creacion] => 2026-03-06 12:56:03
+    [fyh_actualizacion] => 2026-03-06 15:25:53
+    [rol] => Empleado Estandar
+)
+
+[18-Sep-2026 08:25:26 America/Lima] password_verify: true
+[18-Sep-2026 08:25:26 America/Lima] Ingreso exitoso usuario id: 13
+[18-Sep-2026 08:37:48 America/Lima] Email recibido: Serco2026-4@gmail.com
+[18-Sep-2026 08:37:48 America/Lima] Resultado consulta: Array
+(
+    [id_usuario] => 13
+    [nombres] => Pamela Chancafe
+    [email] => Serco2026-4@gmail.com
+    [password_user] => $2y$10$OiVUtmd6P6tw0sGNZcdGqOi3LpdfLOEMimHYZQNCPaEpC4uhzMHa.
+    [token] => 
+    [id_rol] => 4
+    [fyh_creacion] => 2026-03-06 12:56:03
+    [fyh_actualizacion] => 2026-03-06 15:25:53
+    [rol] => Empleado Estandar
+)
+
+[18-Sep-2026 08:37:48 America/Lima] password_verify: true
+[18-Sep-2026 08:37:48 America/Lima] Ingreso exitoso usuario id: 13
+[18-Sep-2026 08:37:48 America/Lima] Email recibido: Serco2026-4@gmail.com
+[18-Sep-2026 08:37:48 America/Lima] Resultado consulta: Array
+(
+    [id_usuario] => 13
+    [nombres] => Pamela Chancafe
+    [email] => Serco2026-4@gmail.com
+    [password_user] => $2y$10$OiVUtmd6P6tw0sGNZcdGqOi3LpdfLOEMimHYZQNCPaEpC4uhzMHa.
+    [token] => 
+    [id_rol] => 4
+    [fyh_creacion] => 2026-03-06 12:56:03
+    [fyh_actualizacion] => 2026-03-06 15:25:53
+    [rol] => Empleado Estandar
+)
+
+[18-Sep-2026 08:37:48 America/Lima] password_verify: true
+[18-Sep-2026 08:37:48 America/Lima] Ingreso exitoso usuario id: 13
+[18-Sep-2026 08:46:50 America/Lima] Email recibido: hemiteri@gmail.com
+[18-Sep-2026 08:46:50 America/Lima] Resultado consulta: Array
+(
+    [id_usuario] => 2
+    [nombres] => Heidy Milagros
+    [email] => hemiteri@gmail.com
+    [password_user] => $2y$10$e6a8nZPXW2tNGHce1BFpX.kUlguHcaxlW5NEPQKbu79QF/pmk4Xky
+    [token] => 
+    [id_rol] => 1
+    [fyh_creacion] => 2025-07-04 15:49:24
+    [fyh_actualizacion] => 2025-12-12 16:30:45
+    [rol] => Administrador
+)
+
+[18-Sep-2026 08:46:50 America/Lima] password_verify: true
+[18-Sep-2026 08:46:50 America/Lima] Ingreso exitoso usuario id: 2
+[18-Sep-2026 09:25:08 America/Lima] Email recibido: Serco2026-4@gmail.com
+[18-Sep-2026 09:25:08 America/Lima] Resultado consulta: Array
+(
+    [id_usuario] => 13
+    [nombres] => Pamela Chancafe
+    [email] => Serco2026-4@gmail.com
+    [password_user] => $2y$10$OiVUtmd6P6tw0sGNZcdGqOi3LpdfLOEMimHYZQNCPaEpC4uhzMHa.
+    [token] => 
+    [id_rol] => 4
+    [fyh_creacion] => 2026-03-06 12:56:03
+    [fyh_actualizacion] => 2026-03-06 15:25:53
+    [rol] => Empleado Estandar
+)
+
+[18-Sep-2026 09:25:08 America/Lima] password_verify: true
+[18-Sep-2026 09:25:08 America/Lima] Ingreso exitoso usuario id: 13
+[18-Sep-2026 10:18:50 America/Lima] Email recibido: Almacen2026-2@gmail.com
+[18-Sep-2026 10:18:50 America/Lima] Resultado consulta: Array
+(
+    [id_usuario] => 11
+    [nombres] => Almacenero
+    [email] => Almacen2026-2@gmail.com
+    [password_user] => $2y$10$JdrOgEuVUlAL2XAs/mz1K.Btz8rHOpLOoZrU2Ajr.Y18Tl1y1PgQi
+    [token] => 
+    [id_rol] => 5
+    [fyh_creacion] => 2026-01-23 08:56:12
+    [fyh_actualizacion] => 2026-01-23 08:58:56
+    [rol] => Empleado Almacen
+)
+
+[18-Sep-2026 10:18:50 America/Lima] password_verify: true
+[18-Sep-2026 10:18:50 America/Lima] Ingreso exitoso usuario id: 11
+[18-Sep-2026 10:23:24 America/Lima] Email recibido: hemiteri@gmail.com
+[18-Sep-2026 10:23:24 America/Lima] Resultado consulta: Array
+(
+    [id_usuario] => 2
+    [nombres] => Heidy Milagros
+    [email] => hemiteri@gmail.com
+    [password_user] => $2y$10$e6a8nZPXW2tNGHce1BFpX.kUlguHcaxlW5NEPQKbu79QF/pmk4Xky
+    [token] => 
+    [id_rol] => 1
+    [fyh_creacion] => 2025-07-04 15:49:24
+    [fyh_actualizacion] => 2025-12-12 16:30:45
+    [rol] => Administrador
+)
+
+[18-Sep-2026 10:23:24 America/Lima] password_verify: true
+[18-Sep-2026 10:23:24 America/Lima] Ingreso exitoso usuario id: 2
+[18-Sep-2026 10:28:32 America/Lima] Email recibido: Serco2026-22@gmail.com
+[18-Sep-2026 10:28:32 America/Lima] Resultado consulta: Array
+(
+    [id_usuario] => 15
+    [nombres] => Yajayra Huaman
+    [email] => Serco2026-22@gmail.com
+    [password_user] => $2y$10$NhATPI.rwYKESPMpSxr7r.TY/PElYWXgNV./Fq3jeyTnLdfYL3oie
+    [token] => 
+    [id_rol] => 1
+    [fyh_creacion] => 2026-06-12 15:45:25
+    [fyh_actualizacion] => 0000-00-00 00:00:00
+    [rol] => Administrador
+)
+
+[18-Sep-2026 10:28:32 America/Lima] password_verify: true
+[18-Sep-2026 10:28:32 America/Lima] Ingreso exitoso usuario id: 15
+[18-Sep-2026 10:39:40 America/Lima] Email recibido: Serco2026-4@gmail.com
+[18-Sep-2026 10:39:40 America/Lima] Resultado consulta: Array
+(
+    [id_usuario] => 13
+    [nombres] => Pamela Chancafe
+    [email] => Serco2026-4@gmail.com
+    [password_user] => $2y$10$OiVUtmd6P6tw0sGNZcdGqOi3LpdfLOEMimHYZQNCPaEpC4uhzMHa.
+    [token] => 
+    [id_rol] => 4
+    [fyh_creacion] => 2026-03-06 12:56:03
+    [fyh_actualizacion] => 2026-03-06 15:25:53
+    [rol] => Empleado Estandar
+)
+
+[18-Sep-2026 10:39:40 America/Lima] password_verify: true
+[18-Sep-2026 10:39:40 America/Lima] Ingreso exitoso usuario id: 13
+[18-Sep-2026 11:52:09 America/Lima] Email recibido: Serco2026-2@gmail.com
+[18-Sep-2026 11:52:09 America/Lima] Resultado consulta: Array
+(
+    [id_usuario] => 4
+    [nombres] => Sercons Sarai
+    [email] => Serco2026-2@gmail.com
+    [password_user] => $2y$10$To7BIcC5Hp/EZZs/n3G13OLINYs7rylKwlGdk6hRkSfGd21Hnlz6e
+    [token] => 
+    [id_rol] => 2
+    [fyh_creacion] => 2025-07-26 10:07:54
+    [fyh_actualizacion] => 2026-01-23 08:34:50
+    [rol] => Vendedor
+)
+
+[18-Sep-2026 11:52:09 America/Lima] password_verify: true
+[18-Sep-2026 11:52:09 America/Lima] Ingreso exitoso usuario id: 4
+[18-Sep-2026 12:08:34 America/Lima] Email recibido: Almacen2026-2@gmail.com
+[18-Sep-2026 12:08:34 America/Lima] Resultado consulta: Array
+(
+    [id_usuario] => 11
+    [nombres] => Almacenero
+    [email] => Almacen2026-2@gmail.com
+    [password_user] => $2y$10$JdrOgEuVUlAL2XAs/mz1K.Btz8rHOpLOoZrU2Ajr.Y18Tl1y1PgQi
+    [token] => 
+    [id_rol] => 5
+    [fyh_creacion] => 2026-01-23 08:56:12
+    [fyh_actualizacion] => 2026-01-23 08:58:56
+    [rol] => Empleado Almacen
+)
+
+[18-Sep-2026 12:08:34 America/Lima] password_verify: true
+[18-Sep-2026 12:08:34 America/Lima] Ingreso exitoso usuario id: 11
+[18-Sep-2026 12:14:20 America/Lima] Email recibido: Serco2026-1@gmail.com
+[18-Sep-2026 12:14:20 America/Lima] Resultado consulta: Array
+(
+    [id_usuario] => 5
+    [nombres] => Sercons Fiorela
+    [email] => Serco2026-1@gmail.com
+    [password_user] => $2y$10$S1/cCSIj/jCSH.RrvTayuOttpPA4lQ3AogpqM1nn98YrjKl2pVMxK
+    [token] => 
+    [id_rol] => 3
+    [fyh_creacion] => 2025-07-26 10:09:23
+    [fyh_actualizacion] => 2026-01-23 08:35:11
+    [rol] => Empleado
+)
+
+[18-Sep-2026 12:14:20 America/Lima] password_verify: true
+[18-Sep-2026 12:14:20 America/Lima] Ingreso exitoso usuario id: 5
+[18-Sep-2026 12:16:37 America/Lima] Email recibido: Vfp2026-1@gmail.com
+[18-Sep-2026 12:16:37 America/Lima] Resultado consulta: Array
+(
+    [id_usuario] => 6
+    [nombres] => VFP Miluska
+    [email] => Vfp2026-1@gmail.com
+    [password_user] => $2y$10$baMKqckHmiYXNF3SrxxUbe8Zry6qfrgqLhBeQEcbINVFj7Mlh2dQi
+    [token] => 
+    [id_rol] => 4
+    [fyh_creacion] => 2025-07-26 10:10:30
+    [fyh_actualizacion] => 2026-07-08 10:40:59
+    [rol] => Empleado Estandar
+)
+
+[18-Sep-2026 12:16:37 America/Lima] password_verify: true
+[18-Sep-2026 12:16:37 America/Lima] Ingreso exitoso usuario id: 6
+[18-Sep-2026 12:17:44 America/Lima] Email recibido: hemiteri@gmail.com
+[18-Sep-2026 12:17:44 America/Lima] Resultado consulta: Array
+(
+    [id_usuario] => 2
+    [nombres] => Heidy Milagros
+    [email] => hemiteri@gmail.com
+    [password_user] => $2y$10$e6a8nZPXW2tNGHce1BFpX.kUlguHcaxlW5NEPQKbu79QF/pmk4Xky
+    [token] => 
+    [id_rol] => 1
+    [fyh_creacion] => 2025-07-04 15:49:24
+    [fyh_actualizacion] => 2025-12-12 16:30:45
+    [rol] => Administrador
+)
+
+[18-Sep-2026 12:17:44 America/Lima] password_verify: true
+[18-Sep-2026 12:17:44 America/Lima] Ingreso exitoso usuario id: 2
+[18-Sep-2026 12:21:59 America/Lima] Email recibido: Serco2026-4@gmail.com
+[18-Sep-2026 12:21:59 America/Lima] Resultado consulta: Array
+(
+    [id_usuario] => 13
+    [nombres] => Pamela Chancafe
+    [email] => Serco2026-4@gmail.com
+    [password_user] => $2y$10$OiVUtmd6P6tw0sGNZcdGqOi3LpdfLOEMimHYZQNCPaEpC4uhzMHa.
+    [token] => 
+    [id_rol] => 4
+    [fyh_creacion] => 2026-03-06 12:56:03
+    [fyh_actualizacion] => 2026-03-06 15:25:53
+    [rol] => Empleado Estandar
+)
+
+[18-Sep-2026 12:21:59 America/Lima] password_verify: true
+[18-Sep-2026 12:21:59 America/Lima] Ingreso exitoso usuario id: 13
+[18-Sep-2026 12:23:46 America/Lima] Email recibido: Serco2026-22@gmail.com
+[18-Sep-2026 12:23:46 America/Lima] Resultado consulta: Array
+(
+    [id_usuario] => 15
+    [nombres] => Yajayra Huaman
+    [email] => Serco2026-22@gmail.com
+    [password_user] => $2y$10$NhATPI.rwYKESPMpSxr7r.TY/PElYWXgNV./Fq3jeyTnLdfYL3oie
+    [token] => 
+    [id_rol] => 1
+    [fyh_creacion] => 2026-06-12 15:45:25
+    [fyh_actualizacion] => 0000-00-00 00:00:00
+    [rol] => Administrador
+)
+
+[18-Sep-2026 12:23:46 America/Lima] password_verify: true
+[18-Sep-2026 12:23:46 America/Lima] Ingreso exitoso usuario id: 15
+[18-Sep-2026 13:54:45 America/Lima] Email recibido: Serco2026-1@gmail.com
+[18-Sep-2026 13:54:45 America/Lima] Resultado consulta: Array
+(
+    [id_usuario] => 5
+    [nombres] => Sercons Fiorela
+    [email] => Serco2026-1@gmail.com
+    [password_user] => $2y$10$S1/cCSIj/jCSH.RrvTayuOttpPA4lQ3AogpqM1nn98YrjKl2pVMxK
+    [token] => 
+    [id_rol] => 3
+    [fyh_creacion] => 2025-07-26 10:09:23
+    [fyh_actualizacion] => 2026-01-23 08:35:11
+    [rol] => Empleado
+)
+
+[18-Sep-2026 13:54:45 America/Lima] password_verify: true
+[18-Sep-2026 13:54:45 America/Lima] Ingreso exitoso usuario id: 5
+[18-Sep-2026 14:11:51 America/Lima] Email recibido: Serco2026-2@gmail.com
+[18-Sep-2026 14:11:51 America/Lima] Resultado consulta: Array
+(
+    [id_usuario] => 4
+    [nombres] => Sercons Sarai
+    [email] => Serco2026-2@gmail.com
+    [password_user] => $2y$10$To7BIcC5Hp/EZZs/n3G13OLINYs7rylKwlGdk6hRkSfGd21Hnlz6e
+    [token] => 
+    [id_rol] => 2
+    [fyh_creacion] => 2025-07-26 10:07:54
+    [fyh_actualizacion] => 2026-01-23 08:34:50
+    [rol] => Vendedor
+)
+
+[18-Sep-2026 14:11:51 America/Lima] password_verify: true
+[18-Sep-2026 14:11:51 America/Lima] Ingreso exitoso usuario id: 4
+[18-Sep-2026 14:17:59 America/Lima] Email recibido: Serco2026-4@gmail.com
+[18-Sep-2026 14:17:59 America/Lima] Resultado consulta: Array
+(
+    [id_usuario] => 13
+    [nombres] => Pamela Chancafe
+    [email] => Serco2026-4@gmail.com
+    [password_user] => $2y$10$OiVUtmd6P6tw0sGNZcdGqOi3LpdfLOEMimHYZQNCPaEpC4uhzMHa.
+    [token] => 
+    [id_rol] => 4
+    [fyh_creacion] => 2026-03-06 12:56:03
+    [fyh_actualizacion] => 2026-03-06 15:25:53
+    [rol] => Empleado Estandar
+)
+
+[18-Sep-2026 14:17:59 America/Lima] password_verify: true
+[18-Sep-2026 14:17:59 America/Lima] Ingreso exitoso usuario id: 13
+[18-Sep-2026 14:29:57 America/Lima] Email recibido: Serco2026-4@gmail.com
+[18-Sep-2026 14:29:57 America/Lima] Resultado consulta: Array
+(
+    [id_usuario] => 13
+    [nombres] => Pamela Chancafe
+    [email] => Serco2026-4@gmail.com
+    [password_user] => $2y$10$OiVUtmd6P6tw0sGNZcdGqOi3LpdfLOEMimHYZQNCPaEpC4uhzMHa.
+    [token] => 
+    [id_rol] => 4
+    [fyh_creacion] => 2026-03-06 12:56:03
+    [fyh_actualizacion] => 2026-03-06 15:25:53
+    [rol] => Empleado Estandar
+)
+
+[18-Sep-2026 14:29:57 America/Lima] password_verify: true
+[18-Sep-2026 14:29:57 America/Lima] Ingreso exitoso usuario id: 13
+[18-Sep-2026 14:34:14 America/Lima] Email recibido: Almacen2026-2@gmail.com
+[18-Sep-2026 14:34:14 America/Lima] Resultado consulta: Array
+(
+    [id_usuario] => 11
+    [nombres] => Almacenero
+    [email] => Almacen2026-2@gmail.com
+    [password_user] => $2y$10$JdrOgEuVUlAL2XAs/mz1K.Btz8rHOpLOoZrU2Ajr.Y18Tl1y1PgQi
+    [token] => 
+    [id_rol] => 5
+    [fyh_creacion] => 2026-01-23 08:56:12
+    [fyh_actualizacion] => 2026-01-23 08:58:56
+    [rol] => Empleado Almacen
+)
+
+[18-Sep-2026 14:34:14 America/Lima] password_verify: true
+[18-Sep-2026 14:34:14 America/Lima] Ingreso exitoso usuario id: 11
+[18-Sep-2026 15:03:16 America/Lima] Email recibido: Serco2026-4@gmail.com
+[18-Sep-2026 15:03:16 America/Lima] Resultado consulta: Array
+(
+    [id_usuario] => 13
+    [nombres] => Pamela Chancafe
+    [email] => Serco2026-4@gmail.com
+    [password_user] => $2y$10$OiVUtmd6P6tw0sGNZcdGqOi3LpdfLOEMimHYZQNCPaEpC4uhzMHa.
+    [token] => 
+    [id_rol] => 4
+    [fyh_creacion] => 2026-03-06 12:56:03
+    [fyh_actualizacion] => 2026-03-06 15:25:53
+    [rol] => Empleado Estandar
+)
+
+[18-Sep-2026 15:03:16 America/Lima] password_verify: true
+[18-Sep-2026 15:03:16 America/Lima] Ingreso exitoso usuario id: 13
+[18-Sep-2026 15:08:46 America/Lima] Email recibido: Serco2026-1@gmail.com
+[18-Sep-2026 15:08:46 America/Lima] Resultado consulta: Array
+(
+    [id_usuario] => 5
+    [nombres] => Sercons Fiorela
+    [email] => Serco2026-1@gmail.com
+    [password_user] => $2y$10$S1/cCSIj/jCSH.RrvTayuOttpPA4lQ3AogpqM1nn98YrjKl2pVMxK
+    [token] => 
+    [id_rol] => 3
+    [fyh_creacion] => 2025-07-26 10:09:23
+    [fyh_actualizacion] => 2026-01-23 08:35:11
+    [rol] => Empleado
+)
+
+[18-Sep-2026 15:08:46 America/Lima] password_verify: true
+[18-Sep-2026 15:08:46 America/Lima] Ingreso exitoso usuario id: 5
+[18-Sep-2026 15:27:52 America/Lima] Email recibido: hemiteri@gmail.com
+[18-Sep-2026 15:27:52 America/Lima] Resultado consulta: Array
+(
+    [id_usuario] => 2
+    [nombres] => Heidy Milagros
+    [email] => hemiteri@gmail.com
+    [password_user] => $2y$10$e6a8nZPXW2tNGHce1BFpX.kUlguHcaxlW5NEPQKbu79QF/pmk4Xky
+    [token] => 
+    [id_rol] => 1
+    [fyh_creacion] => 2025-07-04 15:49:24
+    [fyh_actualizacion] => 2025-12-12 16:30:45
+    [rol] => Administrador
+)
+
+[18-Sep-2026 15:27:52 America/Lima] password_verify: true
+[18-Sep-2026 15:27:52 America/Lima] Ingreso exitoso usuario id: 2
+[18-Sep-2026 15:43:46 America/Lima] Email recibido: Serco2026-2@gmail.com
+[18-Sep-2026 15:43:46 America/Lima] Resultado consulta: Array
+(
+    [id_usuario] => 4
+    [nombres] => Sercons Sarai
+    [email] => Serco2026-2@gmail.com
+    [password_user] => $2y$10$To7BIcC5Hp/EZZs/n3G13OLINYs7rylKwlGdk6hRkSfGd21Hnlz6e
+    [token] => 
+    [id_rol] => 2
+    [fyh_creacion] => 2025-07-26 10:07:54
+    [fyh_actualizacion] => 2026-01-23 08:34:50
+    [rol] => Vendedor
+)
+
+[18-Sep-2026 15:43:46 America/Lima] password_verify: true
+[18-Sep-2026 15:43:46 America/Lima] Ingreso exitoso usuario id: 4
+[18-Sep-2026 15:54:08 America/Lima] Email recibido: Serco2026-4@gmail.com
+[18-Sep-2026 15:54:08 America/Lima] Resultado consulta: Array
+(
+    [id_usuario] => 13
+    [nombres] => Pamela Chancafe
+    [email] => Serco2026-4@gmail.com
+    [password_user] => $2y$10$OiVUtmd6P6tw0sGNZcdGqOi3LpdfLOEMimHYZQNCPaEpC4uhzMHa.
+    [token] => 
+    [id_rol] => 4
+    [fyh_creacion] => 2026-03-06 12:56:03
+    [fyh_actualizacion] => 2026-03-06 15:25:53
+    [rol] => Empleado Estandar
+)
+
+[18-Sep-2026 15:54:08 America/Lima] password_verify: true
+[18-Sep-2026 15:54:08 America/Lima] Ingreso exitoso usuario id: 13
+[18-Sep-2026 15:55:16 America/Lima] Email recibido: Almacen2026-2@gmail.com
+[18-Sep-2026 15:55:16 America/Lima] Resultado consulta: Array
+(
+    [id_usuario] => 11
+    [nombres] => Almacenero
+    [email] => Almacen2026-2@gmail.com
+    [password_user] => $2y$10$JdrOgEuVUlAL2XAs/mz1K.Btz8rHOpLOoZrU2Ajr.Y18Tl1y1PgQi
+    [token] => 
+    [id_rol] => 5
+    [fyh_creacion] => 2026-01-23 08:56:12
+    [fyh_actualizacion] => 2026-01-23 08:58:56
+    [rol] => Empleado Almacen
+)
+
+[18-Sep-2026 15:55:16 America/Lima] password_verify: true
+[18-Sep-2026 15:55:16 America/Lima] Ingreso exitoso usuario id: 11
+[18-Sep-2026 16:37:11 America/Lima] Email recibido: Serco2026-22@gmail.com
+[18-Sep-2026 16:37:11 America/Lima] Resultado consulta: Array
+(
+    [id_usuario] => 15
+    [nombres] => Yajayra Huaman
+    [email] => Serco2026-22@gmail.com
+    [password_user] => $2y$10$NhATPI.rwYKESPMpSxr7r.TY/PElYWXgNV./Fq3jeyTnLdfYL3oie
+    [token] => 
+    [id_rol] => 1
+    [fyh_creacion] => 2026-06-12 15:45:25
+    [fyh_actualizacion] => 0000-00-00 00:00:00
+    [rol] => Administrador
+)
+
+[18-Sep-2026 16:37:11 America/Lima] password_verify: true
+[18-Sep-2026 16:37:11 America/Lima] Ingreso exitoso usuario id: 15
+[18-Sep-2026 16:58:30 America/Lima] Email recibido: Serco2026-1@gmail.com
+[18-Sep-2026 16:58:30 America/Lima] Resultado consulta: Array
+(
+    [id_usuario] => 5
+    [nombres] => Sercons Fiorela
+    [email] => Serco2026-1@gmail.com
+    [password_user] => $2y$10$S1/cCSIj/jCSH.RrvTayuOttpPA4lQ3AogpqM1nn98YrjKl2pVMxK
+    [token] => 
+    [id_rol] => 3
+    [fyh_creacion] => 2025-07-26 10:09:23
+    [fyh_actualizacion] => 2026-01-23 08:35:11
+    [rol] => Empleado
+)
+
+[18-Sep-2026 16:58:30 America/Lima] password_verify: true
+[18-Sep-2026 16:58:30 America/Lima] Ingreso exitoso usuario id: 5
+[18-Sep-2026 17:33:23 America/Lima] Email recibido: iki1214_@hotmail.com
+[18-Sep-2026 17:33:23 America/Lima] Resultado consulta: Array
+(
+    [id_usuario] => 7
+    [nombres] => Vanessa Estela
+    [email] => iki1214_@hotmail.com
+    [password_user] => $2y$10$ocotQF73KWbmjtQpBTFGT.3aAEP1rit/heNbkPq.NmEZBhtZux0BO
+    [token] => 
+    [id_rol] => 1
+    [fyh_creacion] => 2025-12-12 15:49:13
+    [fyh_actualizacion] => 2026-01-19 15:07:05
+    [rol] => Administrador
+)
+
+[18-Sep-2026 17:33:23 America/Lima] password_verify: true
+[18-Sep-2026 17:33:23 America/Lima] Ingreso exitoso usuario id: 7

@@ -1,0 +1,16 @@
+[13-Dec-2025 10:09:43 America/Lima] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/serconsl/public_html/sistemaserconslimp/layout/parte1.php:19) in /home/serconsl/public_html/sistemaserconslimp/app/controllers/almacen/listado_de_almacen.php on line 8
+[13-Dec-2025 10:09:43 America/Lima] PHP Notice:  Constant SERVIDOR already defined in /home/serconsl/public_html/sistemaserconslimp/app/config.php on line 3
+[13-Dec-2025 10:09:43 America/Lima] PHP Notice:  Constant USUARIO already defined in /home/serconsl/public_html/sistemaserconslimp/app/config.php on line 4
+[13-Dec-2025 10:09:43 America/Lima] PHP Notice:  Constant PASSWORD already defined in /home/serconsl/public_html/sistemaserconslimp/app/config.php on line 5
+[13-Dec-2025 10:09:43 America/Lima] PHP Notice:  Constant BD already defined in /home/serconsl/public_html/sistemaserconslimp/app/config.php on line 6
+[31-Jan-2026 08:58:57 America/Lima] Error en listado_de_almacen.php: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (utf8mb4_spanish_ci,IMPLICIT) and (utf8mb3_general_ci,COERCIBLE) for operation 'like'
+[16-Feb-2026 12:06:51 America/Lima] Error en listado_de_almacen.php: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (utf8mb4_spanish_ci,IMPLICIT) and (utf8mb3_general_ci,COERCIBLE) for operation 'like'
+[31-Mar-2026 13:04:58 America/Lima] Error en listado_de_almacen.php: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (utf8mb4_spanish_ci,IMPLICIT) and (utf8mb3_general_ci,COERCIBLE) for operation 'like'
+[09-Apr-2026 12:56:14 America/Lima] listado_de_almacen.php: $pdo no definido
+[09-Apr-2026 12:56:16 America/Lima] listado_de_almacen.php: $pdo no definido
+[09-Apr-2026 12:56:23 America/Lima] listado_de_almacen.php: $pdo no definido
+[18-May-2026 15:04:36 America/Lima] Error en listado_de_almacen.php: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (utf8mb4_spanish_ci,IMPLICIT) and (utf8mb3_general_ci,COERCIBLE) for operation 'like'
+[25-May-2026 16:32:27 America/Lima] Error en listado_de_almacen.php: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (utf8mb4_spanish_ci,IMPLICIT) and (utf8mb3_general_ci,COERCIBLE) for operation 'like'
+[01-Jun-2026 11:51:24 America/Lima] Error en listado_de_almacen.php: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (utf8mb4_spanish_ci,IMPLICIT) and (utf8mb3_general_ci,COERCIBLE) for operation 'like'
+[02-Jun-2026 10:48:24 America/Lima] Error en listado_de_almacen.php: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (utf8mb4_spanish_ci,IMPLICIT) and (utf8mb3_general_ci,COERCIBLE) for operation 'like'
+[13-Aug-2026 16:33:50 America/Lima] Error en listado_de_almacen.php: SQLSTATE[HY000]: General error: 1267 Illegal mix of collations (utf8mb4_spanish_ci,IMPLICIT) and (utf8mb3_general_ci,COERCIBLE) for operation 'like'
